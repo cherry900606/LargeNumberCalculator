@@ -1,0 +1,34 @@
+﻿  Decimal.cpp
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\Decimal.h(8,23): warning C4584: 'Decimal': 基底類別 'NumberObject' 原本就是 'Integer' 的基底類別; 使用這些類別的成員時需嚴格限定，以免導致模稜兩可
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\NumberObject.h(6): message : 請參閱 'NumberObject' 的宣告
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\Integer.h(10): message : 請參閱 'Integer' 的宣告
+  InfixToPostfix.cpp
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\Decimal.h(8,23): warning C4584: 'Decimal': 基底類別 'NumberObject' 原本就是 'Integer' 的基底類別; 使用這些類別的成員時需嚴格限定，以免導致模稜兩可
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\NumberObject.h(6): message : 請參閱 'NumberObject' 的宣告
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\Integer.h(10): message : 請參閱 'Integer' 的宣告
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\InfixToPostfix.cpp(227,29): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  Integer.cpp
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\Decimal.h(8,23): warning C4584: 'Decimal': 基底類別 'NumberObject' 原本就是 'Integer' 的基底類別; 使用這些類別的成員時需嚴格限定，以免導致模稜兩可
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\NumberObject.h(6): message : 請參閱 'NumberObject' 的宣告
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\Integer.h(10): message : 請參閱 'Integer' 的宣告
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\Integer.cpp(26,20): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\Integer.cpp(90,3): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\Integer.cpp(136,3): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\Integer.cpp(159,2): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\Integer.cpp(163,3): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\Integer.cpp(178,27): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\Integer.cpp(185,24): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\Integer.cpp(314,2): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\Integer.cpp(332,27): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\Integer.cpp(345,29): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\Integer.cpp(407,24): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  main.cpp
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\Decimal.h(8,23): warning C4584: 'Decimal': 基底類別 'NumberObject' 原本就是 'Integer' 的基底類別; 使用這些類別的成員時需嚴格限定，以免導致模稜兩可
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\NumberObject.h(6): message : 請參閱 'NumberObject' 的宣告
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\Integer.h(10): message : 請參閱 'Integer' 的宣告
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\main.cpp(80,48): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\main.cpp(64,15): warning C4101: 'computer': 未參考的區域變數
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\LargeNumberCalculator\main.cpp(84,14): warning C4101: 'computer': 未參考的區域變數
+  NumberObject.cpp
+  正在產生程式碼...
+  LargeNumberCalculator.vcxproj -> C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator\x64\Debug\LargeNumberCalculator.exe

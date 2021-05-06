@@ -1,0 +1,9 @@
+﻿  InfixToPostfix.cpp
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator-main\LargeNumberCalculator\LargeNumberCalculator\Decimal.h(8,23): warning C4584: 'Decimal': 基底類別 'NumberObject' 原本就是 'Integer' 的基底類別; 使用這些類別的成員時需嚴格限定，以免導致模稜兩可
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator-main\LargeNumberCalculator\LargeNumberCalculator\NumberObject.h(6): message : 請參閱 'NumberObject' 的宣告
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator-main\LargeNumberCalculator\LargeNumberCalculator\Integer.h(10): message : 請參閱 'Integer' 的宣告
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator-main\LargeNumberCalculator\LargeNumberCalculator\InfixToPostfix.cpp(145,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator-main\LargeNumberCalculator\LargeNumberCalculator\InfixToPostfix.cpp(164,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator-main\LargeNumberCalculator\LargeNumberCalculator\InfixToPostfix.cpp(219,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator-main\LargeNumberCalculator\LargeNumberCalculator\InfixToPostfix.cpp(239,20): warning C4018: '<': signed/unsigned 不相符
+  LargeNumberCalculator.vcxproj -> C:\Users\cherry\Desktop\大學\大二下\物件導向程式設計\LargeNumberCalculator-main\LargeNumberCalculator\Debug\LargeNumberCalculator.exe
